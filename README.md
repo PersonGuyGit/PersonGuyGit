@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello There... 👋
 
 <!--
 **PersonGuyGit/PersonGuyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center" width="150px"> I am a web devloper that specializes in React and Python devlopment.</p>
+
 
 Here are some ideas to get you started:
 
