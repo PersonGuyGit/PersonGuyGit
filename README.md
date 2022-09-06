@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 <p align="center" width="150px">I'm a web developer that specializes in React and Python devlopment.</p>
-<p align="center width="150px>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.</p>
+<p align="center" width="150px">I love to use exciting technologies such as web-scraping, scripting, version control, and many more.</p>
