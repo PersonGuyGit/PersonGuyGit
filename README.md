@@ -1,24 +1,6 @@
 ### Hello There... 👋
 
-<!--
-**PersonGuyGit/PersonGuyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<p align="center" width="150px">I'm a web developer that specializes in React and Python devlopment.<br>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.</p>
+<p align="center" width="150px">I'm a web developer that specializes in React, Javascript and Python development.<br>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.<br>I am currently looking for work, so please feel free to contact me on Linkedin.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,8 +19,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 ### 😄 Pronouns: He/Him
-
-### :link: &nbsp;Connect with me
-
 
 Last Updated On: 9/05/2022
