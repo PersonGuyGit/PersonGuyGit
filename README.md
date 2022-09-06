@@ -36,5 +36,9 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
+### 😄 Pronouns: He/Him
 
 ### :link: &nbsp;Connect with me
+
+
+Last Updated On: 9/05/2022
