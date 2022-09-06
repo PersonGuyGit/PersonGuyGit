@@ -3,7 +3,6 @@
 <!--
 **PersonGuyGit/PersonGuyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center" width="150px"> I am a web devloper that specializes in React and Python devlopment.</p>
 
 
 Here are some ideas to get you started:
@@ -17,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center" width="150px">I'm a web developer that specializes in React and Python devlopment.</p>
+<p align="center width="150px>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.</p>
