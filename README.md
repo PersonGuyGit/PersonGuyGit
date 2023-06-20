@@ -1,6 +1,6 @@
 ### Hello There... 👋
 
-<p align="center" width="150px">I'm a web developer that specializes in React, Javascript and Python development.<br>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.<br>I am currently looking for work, so please feel free to contact me on Linkedin.</p>
+<p align="center" width="150px">I'm a web developer that specializes in React, Javascript, Typescript, SQL, HTML, CSS and Python.<br>I love to use exciting technologies such as web-scraping, scripting, version control, and many more.<br>I am currently looking for work, so please feel free to contact me on Linkedin.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
